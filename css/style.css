@@ -1,5 +1,18 @@
 body { font-family: Arial, sans-serif; margin: 20px; }
 .header
-    test-aligin: left;
+    text-aligin: center;
     font-size: 2em;
 }
+body {
+    font-famlily: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    color: #333;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+.header { text-align: center; }
+
